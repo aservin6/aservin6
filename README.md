@@ -1,16 +1,23 @@
-## Hi there 👋
+# Alex Servin II
 
-<!--
-**aservin6/aservin6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer focused on scalable web applications, backend systems, and performance-oriented engineering.
 
-Here are some ideas to get you started:
+Currently focused on distributed systems, realtime architectures, performance optimization, and deepening foundational computer science knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+
+### Thockr
+
+Typing platform currently in active development focused on delivering a fast, polished, and competitive typing experience.
+
+Thockr combines:
+- the minimalism and customization of modern typing platforms
+- realtime competitive systems inspired by multiplayer typing games
+- performance analytics and progression-oriented design
+
+Repo:
+- GitHub: https://github.com/aservin6/thockr
+
+## Philosophy
+
+I enjoy building systems from foundational primitives and understanding how software works beneath abstraction layers. While modern tooling accelerates development, I still value developing a strong understanding of architecture, systems, and core engineering fundamentals.
