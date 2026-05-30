@@ -6,17 +6,17 @@ Currently focused on distributed systems, realtime architectures, performance op
 
 ## Featured Project
 
-### Thockr
+### thocktype
 
 Typing platform currently in active development focused on delivering a fast, polished, and competitive typing experience.
 
-Thockr combines:
+thocktype combines:
 - the minimalism and customization of modern typing platforms
 - realtime competitive systems inspired by multiplayer typing games
 - performance analytics and progression-oriented design
 
 Repo:
-- GitHub: https://github.com/aservin6/thockr
+- GitHub: https://github.com/aservin6/thocktype
 
 ## Philosophy
 
